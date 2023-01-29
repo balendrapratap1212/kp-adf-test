@@ -1,0 +1,9 @@
+{
+	"name": "kp-adf-dev-balendra",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89ac3293-cc84-4b4c-a680-c8b84a993121",
+		"tenantId": "da15129c-5bdd-4fdd-a192-4f26910515cf"
+	}
+}
